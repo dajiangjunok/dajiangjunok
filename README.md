@@ -3,13 +3,12 @@
     God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm 0xFour
   </h1>
    <div>
-    🍓 Talking about Personal Stuffs:
+   <p>  🍓 Talking about Personal Stuffs: </p>
 
- <p> 👨🏽‍💻 I love Open Source; </p>
- <p> 💗 Learning Frontend and Solidity brings me joy; </p>
- <p> 💬 Ask me about anything, I am happy to help; </p>
- <p> 🌱 I’m currently learning </p>
-
+   <p> 👨🏽‍💻 I love Open Source; </p>
+   <p> 💗 Learning Frontend and Solidity brings me joy; </p>
+   <p> 💬 Ask me about anything, I am happy to help; </p>
+   <p> 🌱 I’m currently learning </p>
    </div>
 </p>
 <div align="center">
