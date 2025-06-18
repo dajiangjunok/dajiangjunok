@@ -2,15 +2,15 @@
   <h1 height="200px" align="center">
     God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm 0xFour
   </h1>
-   <p>
+   <div>
     🍓 Talking about Personal Stuffs:
 
-  👨🏽‍💻 I love Open Source;
-  💗 Learning Frontend and Solidity brings me joy;
-  💬 Ask me about anything, I am happy to help;
-  🌱 I’m currently learning
+ <p> 👨🏽‍💻 I love Open Source; </p>
+ <p> 💗 Learning Frontend and Solidity brings me joy; </p>
+ <p> 💬 Ask me about anything, I am happy to help; </p>
+ <p> 🌱 I’m currently learning </p>
 
-   </p>
+   </div>
 </p>
 <div align="center">
   <img src="https://img.shields.io/badge/-CSS-ffa940?style=flat&logo=css3&logoColor=white">
