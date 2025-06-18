@@ -5,10 +5,10 @@
    <p>
     🍓 Talking about Personal Stuffs:
 
-    👨🏽‍💻 I love Open Source;
-    💗 Learning Frontend and Solidity brings me joy;
-    💬 Ask me about anything, I am happy to help;
-    🌱 I’m currently learning
+  👨🏽‍💻 I love Open Source;
+  💗 Learning Frontend and Solidity brings me joy;
+  💬 Ask me about anything, I am happy to help;
+  🌱 I’m currently learning
 
    </p>
 </p>
