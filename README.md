@@ -1,7 +1,7 @@
 <p align="center">
-  <h1 height="200px" align="center">
+  <h2 height="150px" align="center">
     God dag <img src="https://cdn.jsdelivr.net/gh/MaleWeb/picture/images/techblog/hi.gif" width="25">, I'm 0xFour
-  </h1>
+  </h2>
    <div>
    <p>  🍓 Talking about Personal Stuffs: </p>
 
