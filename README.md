@@ -49,4 +49,4 @@
 
 - WeChat： \_KFC-v50-
 - X： @Alivin6868
-- E-mail： wyj779503577@gmail@gmail.com
+- E-mail： wyj779503577@gmail.com
